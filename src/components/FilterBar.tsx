@@ -62,16 +62,16 @@ export default function FilterBar({
         <span className="filter-label">תצוגה:</span>
         <div className="viewtoggle">
           <button
+            className={`chip ${view === 'grid' ? 'active' : ''}`}
+            onClick={() => onView('grid')}
+          >
+            ▦ כרטיסים
+          </button>
+          <button
             className={`chip ${view === 'map' ? 'active' : ''}`}
             onClick={() => onView('map')}
           >
             🗺️ מפה
-          </button>
-          <button
-            className={`chip ${view === 'grid' ? 'active' : ''}`}
-            onClick={() => onView('grid')}
-          >
-            ▦ רשימה
           </button>
         </div>
       </div>

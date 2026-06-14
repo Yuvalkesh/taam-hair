@@ -14,7 +14,8 @@ const isAdmin = params.get('admin') === '1'
 // Deep-link straight into the app (skip start screen): ?app=1 or ?view=grid|map
 const deepLinked =
   params.has('app') || params.has('view') || params.has('place') || params.get('add') === '1'
-const initialView: 'map' | 'grid' = params.get('view') === 'grid' ? 'grid' : 'map'
+// Cards/grid is the default view. Map is opt-in via the toggle or ?view=map.
+const initialView: 'map' | 'grid' = params.get('view') === 'map' ? 'map' : 'grid'
 
 export default function App() {
   const [started, setStarted] = useState(deepLinked)

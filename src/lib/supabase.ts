@@ -82,6 +82,31 @@ export async function fetchPlaces(includePending = false): Promise<Place[]> {
   return (data as PlaceRow[]).map(rowToPlace)
 }
 
+/** Fire-and-forget: ping the serverless function that emails the admin.
+ *  Never blocks or fails the submission — a notification error is non-fatal. */
+function notifyAdmin(place: Place): void {
+  try {
+    void fetch('/api/notify-submission', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        id: place.id,
+        name: place.name,
+        city: place.city,
+        region: place.region,
+        category: place.category,
+        address: place.address,
+        description: place.description,
+        googleMapsUrl: place.googleMapsUrl,
+        submittedBy: place.submittedBy,
+      }),
+      keepalive: true,
+    }).catch(() => {})
+  } catch {
+    /* ignore */
+  }
+}
+
 /** Insert a place. Returns true if it was persisted remotely, false if local-only. */
 export async function insertPlace(place: Place): Promise<boolean> {
   if (!client) return false
@@ -90,5 +115,6 @@ export async function insertPlace(place: Place): Promise<boolean> {
     console.warn('Supabase insert failed:', error.message)
     return false
   }
+  notifyAdmin(place)
   return true
 }

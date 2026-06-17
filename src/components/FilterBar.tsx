@@ -5,21 +5,43 @@ interface Props {
   region: string | null
   category: string | null
   view: 'map' | 'grid'
+  query: string
   onRegion: (r: string | null) => void
   onCategory: (c: string | null) => void
   onView: (v: 'map' | 'grid') => void
+  onQuery: (q: string) => void
 }
 
 export default function FilterBar({
   region,
   category,
   view,
+  query,
   onRegion,
   onCategory,
   onView,
+  onQuery,
 }: Props) {
   return (
     <div className="filterbar">
+      <div className="filter-row search-row">
+        <span className="filter-label">🔍 חיפוש:</span>
+        <input
+          className="search-input"
+          type="search"
+          inputMode="search"
+          value={query}
+          onChange={(e) => onQuery(e.target.value)}
+          placeholder="שם מקום, עיר או סוג אוכל…"
+          aria-label="חיפוש מקום"
+        />
+        {query && (
+          <button className="chip" onClick={() => onQuery('')} aria-label="נקה חיפוש">
+            ✕ נקה
+          </button>
+        )}
+      </div>
+
       <div className="filter-row">
         <span className="filter-label">אזור:</span>
         <button

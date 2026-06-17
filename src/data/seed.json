@@ -5,17 +5,24 @@
     "city": "גבעתיים",
     "region": "מרכז",
     "category": "שניצל",
-    "address": "צומת כורזין, גבעתיים",
+    "address": "תפוצות ישראל 4, מתחם כורזין, גבעתיים",
     "description": "דוכן שמטגן מעל 30 שנה. ב-50 ש\"ח בגט עם הר שניצל שמאכיל משפחה שלמה, מה שלא נכנס תמיר דוחף לך בצלחת. צ'יפס מפנק, ואם יצא קר מביאים מנה חדשה בלי פרצוף. מקום של פעם בקטע הכי טוב שיש.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A9%D7%A0%D7%99%D7%A6%D7%9C%20%D7%A9%D7%9C%20%D7%AA%D7%9E%D7%99%D7%A8%20%D7%92%D7%91%D7%A2%D7%AA%D7%99%D7%99%D7%9D",
-    "lat": 32.0719,
-    "lng": 34.8092,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A9%D7%A0%D7%99%D7%A6%D7%9C%20%D7%A9%D7%9C%20%D7%AA%D7%9E%D7%99%D7%A8%20%D7%AA%D7%A4%D7%95%D7%A6%D7%95%D7%AA%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C%204%2C%20%D7%9E%D7%AA%D7%97%D7%9D%20%D7%9B%D7%95%D7%A8%D7%96%D7%99%D7%9F%2C%20%D7%92%D7%91%D7%A2%D7%AA%D7%99%D7%99%D7%9D",
+    "lat": 32.0726,
+    "lng": 34.8056,
     "priceLevel": "₪",
     "rating": null,
     "reviews": [
-      { "author": "Ella Kône", "text": "תמיר הוא 'מוסד' ואושיה בגבעתיים." },
-      { "author": "Harel Avrahami", "text": "אחלה תמיר!! הכמויות ענקיות." },
-      { "author": "Erez Krispin", "text": "תמיר איש מקסים והכמויות ענקיות. פעם המקום שלו היה בבותקה בכניסה לכורזין ואז השניצל היה שוס." }
+      {
+        "author": "David Rosenthal, וואלה אוכל",
+        "text": "שניצל טוב, כמות גדולה ומחיר מצוין. הקומבו (בגט שניצל + צ'יפס + שתייה) עלה 43 שקלים בלבד.",
+        "source": "https://food.walla.co.il/item/3490674?r=1"
+      },
+      {
+        "author": "מאקו, מבקרי אוכל רחוב",
+        "text": "כמות גדולה ויפה של שניצלים, תוספות כיד המלך ומחיר הוגן. דקים, פריכים וטעימים מאוד.",
+        "source": "https://www.mako.co.il/food-restaurants/street-food-critics/Article-8deed6b5f60ea81026.htm"
+      }
     ]
   },
   {
@@ -26,13 +33,17 @@
     "category": "תימני",
     "address": "אצ\"ל 43, שכונת התקווה, תל אביב",
     "description": "מסעדה קטנה וחמה בלב שכונת התקווה, מעל 60 שנה. הסבא התחיל מעגלת פלאפל בשוק. הקבב על הפחמים ענק ועסיסי, פיתות מהטבון, ובחורף מרק תימני, עדשים ושעועית. דור שלישי ממשיך.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A7%D7%99%D7%A1%D7%A8%20%D7%90%D7%A6%22%D7%9C%2043%20%D7%AA%D7%9C%20%D7%90%D7%91%D7%99%D7%91",
-    "lat": 32.0536,
-    "lng": 34.7857,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A7%D7%99%D7%A1%D7%A8%20%D7%90%D7%A6%22%D7%9C%2043%2C%20%D7%A9%D7%9B%D7%95%D7%A0%D7%AA%20%D7%94%D7%AA%D7%A7%D7%95%D7%95%D7%94%2C%20%D7%AA%D7%9C%20%D7%90%D7%91%D7%99%D7%91",
+    "lat": 32.05548,
+    "lng": 34.78478,
     "priceLevel": "₪₪",
     "rating": null,
     "reviews": [
-      { "author": "המלצה מהשכונה", "text": "קבב על פחמים, פיתה עיראקית, טחינה משובחת ועמבה. מטבח מזרחי ביתי של פעם." }
+      {
+        "author": "ynet, איפה לאכול בשוק התקווה",
+        "text": "מסעדה קטנה, חמימה וביתית עם יותר מ60 שנה של אוכל מזרחי איכותי, טעים ונקי. פיתות עיראקיות מהתנור ישר לשולחן.",
+        "source": "https://www.ynet.co.il/articles/0,7340,L-5068378,00.html"
+      }
     ]
   },
   {
@@ -41,15 +52,25 @@
     "city": "תל אביב — שכונת התקווה",
     "region": "תל אביב",
     "category": "בשרים",
-    "address": "שכונת התקווה, תל אביב",
+    "address": "אצ\"ל 41, שכונת התקווה, תל אביב",
     "description": "על האש של פעם בשכונת התקווה. עוד פנינה ותיקה של השכונה.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%91%D7%95%D7%A1%D7%99%20%D7%A9%D7%9B%D7%95%D7%A0%D7%AA%20%D7%94%D7%AA%D7%A7%D7%95%D7%95%D7%94%20%D7%AA%D7%9C%20%D7%90%D7%91%D7%99%D7%91",
-    "lat": 32.0548,
-    "lng": 34.7851,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%91%D7%95%D7%A1%D7%99%20%D7%90%D7%A6%22%D7%9C%2041%2C%20%D7%A9%D7%9B%D7%95%D7%A0%D7%AA%20%D7%94%D7%AA%D7%A7%D7%95%D7%95%D7%94%2C%20%D7%AA%D7%9C%20%D7%90%D7%91%D7%99%D7%91",
+    "lat": 32.0556,
+    "lng": 34.7846,
     "priceLevel": "₪₪",
     "rating": null,
-    "needsConfirm": true,
-    "reviews": []
+    "reviews": [
+      {
+        "author": "Orna, רסט",
+        "text": "זו הסטקייה הכי טובה בשכונת התקווה. קצת יקר אבל שווה.",
+        "source": "https://www.rest.co.il/rest/6559360/"
+      },
+      {
+        "author": "liran, רסט",
+        "text": "הלאפה שיפוד שלהם היא הכי טובה בארץ ללא שום תחרות!",
+        "source": "https://www.rest.co.il/rest/6559360/"
+      }
+    ]
   },
   {
     "id": "hateimani-hatikva",
@@ -57,14 +78,13 @@
     "city": "תל אביב — שכונת התקווה",
     "region": "תל אביב",
     "category": "תימני",
-    "address": "שכונת התקווה, תל אביב",
+    "address": "אזור שוק התקווה (רחוב אצ\"ל), שכונת התקווה, תל אביב",
     "description": "אוכל תימני אותנטי בשכונת התקווה. מרקים, מלאווח, על האש.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%AA%D7%99%D7%9E%D7%A0%D7%99%20%D7%A9%D7%9B%D7%95%D7%A0%D7%AA%20%D7%94%D7%AA%D7%A7%D7%95%D7%95%D7%94",
-    "lat": 32.0551,
-    "lng": 34.7846,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%AA%D7%99%D7%9E%D7%A0%D7%99%20%D7%90%D7%96%D7%95%D7%A8%20%D7%A9%D7%95%D7%A7%20%D7%94%D7%AA%D7%A7%D7%95%D7%95%D7%94%20%28%D7%A8%D7%97%D7%95%D7%91%20%D7%90%D7%A6%22%D7%9C%29%2C%20%D7%A9%D7%9B%D7%95%D7%A0%D7%AA%20%D7%94%D7%AA%D7%A7%D7%95%D7%95%D7%94%2C%20%D7%AA%D7%9C%20%D7%90%D7%91%D7%99%D7%91",
+    "lat": 32.0553,
+    "lng": 34.785,
     "priceLevel": "₪₪",
     "rating": null,
-    "needsConfirm": true,
     "reviews": []
   },
   {
@@ -75,82 +95,117 @@
     "category": "תימני",
     "address": "רבי מאיר 26, כרם התימנים, תל אביב",
     "description": "מוסד תימני ותיק בכרם התימנים. על האש, מרקים, סלטים על השולחן. אווירה של פעם.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%92%D7%A0%D7%93%D7%94%20%D7%9B%D7%A8%D7%9D%20%D7%94%D7%AA%D7%99%D7%9E%D7%A0%D7%99%D7%9D",
-    "lat": 32.0703,
-    "lng": 34.7681,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%92%D7%A0%D7%93%D7%94%20%D7%A8%D7%91%D7%99%20%D7%9E%D7%90%D7%99%D7%A8%2026%2C%20%D7%9B%D7%A8%D7%9D%20%D7%94%D7%AA%D7%99%D7%9E%D7%A0%D7%99%D7%9D%2C%20%D7%AA%D7%9C%20%D7%90%D7%91%D7%99%D7%91",
+    "lat": 32.069406,
+    "lng": 34.768361,
     "priceLevel": "₪₪₪",
     "rating": null,
-    "needsConfirm": true,
-    "reviews": []
+    "reviews": [
+      {
+        "author": "Gtedoc, TripAdvisor",
+        "text": "צלעות הכבש היו מושלמות! החומוס קרמי וטעים, נאסף עם הפיתה החמה.",
+        "source": "https://www.tripadvisor.com/Restaurant_Review-g293984-d1127707-Reviews-Maganda-Tel_Aviv_Tel_Aviv_District.html"
+      },
+      {
+        "author": "Mahmut T, TripAdvisor",
+        "text": "מקום נהדר, צוות ידידותי ומסביר פנים. אוכל מצוין, קבב, חומוס, פלאפל, ממליץ בחום.",
+        "source": "https://www.tripadvisor.com/Restaurant_Review-g293984-d1127707-Reviews-Maganda-Tel_Aviv_Tel_Aviv_District.html"
+      }
+    ]
   },
   {
     "id": "sami-vebanav",
     "name": "סמי ובניו",
-    "city": "בני ברק",
+    "city": "רמת גן",
     "region": "מרכז",
     "category": "קבב",
-    "address": "בן גוריון 173",
+    "address": "דרך בן גוריון 173, רמת גן",
     "description": "לפי הממליצים — הקבב הכי טוב שיש במרכז.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%9E%D7%99%20%D7%95%D7%91%D7%A0%D7%99%D7%95%20%D7%91%D7%9F%20%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%9F%20173",
-    "lat": 32.0853,
-    "lng": 34.8338,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%9E%D7%99%20%D7%95%D7%91%D7%A0%D7%99%D7%95%20%D7%93%D7%A8%D7%9A%20%D7%91%D7%9F%20%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%9F%20173%2C%20%D7%A8%D7%9E%D7%AA%20%D7%92%D7%9F",
+    "lat": 32.075695,
+    "lng": 34.81887,
     "priceLevel": "₪₪",
     "rating": null,
-    "needsConfirm": true,
     "reviews": [
-      { "author": "ממליץ מטוויטר", "text": "הקבב הכי טוב שיש במרכז." }
+      {
+        "author": "ערן לאור, הארץ",
+        "text": "הבשר טוב, היד על הגריל מוצלחת ואפילו שווארמה מוצלחת. גם אחרי עשרות שנים, זו אחת השיפודיות הטובות באזור המרכז.",
+        "source": "https://www.haaretz.co.il/food/street-food-review/2023-04-24/ty-article-review/.highlight/00000187-b006-d803-ad8f-fc57cabc0000"
+      }
     ]
   },
   {
     "id": "falafel-hateomim",
     "name": "פלאפל התאומים",
-    "city": "בני ברק",
+    "city": "גבעתיים",
     "region": "מרכז",
     "category": "פלאפל",
-    "address": "בן גוריון 184",
+    "address": "דרך בן גוריון 184, גבעתיים",
     "description": "הכל תמיד טרי, שומרים על מוניטין כבר 48 שנה.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A4%D7%9C%D7%90%D7%A4%D7%9C%20%D7%94%D7%AA%D7%90%D7%95%D7%9E%D7%99%D7%9D%20%D7%91%D7%9F%20%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%9F%20184",
-    "lat": 32.0856,
-    "lng": 34.8341,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A4%D7%9C%D7%90%D7%A4%D7%9C%20%D7%94%D7%AA%D7%90%D7%95%D7%9E%D7%99%D7%9D%20%D7%93%D7%A8%D7%9A%20%D7%91%D7%9F%20%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%9F%20184%2C%20%D7%92%D7%91%D7%A2%D7%AA%D7%99%D7%99%D7%9D",
+    "lat": 32.074516,
+    "lng": 34.818349,
     "priceLevel": "₪",
     "rating": null,
-    "needsConfirm": true,
     "reviews": [
-      { "author": "יוב קש", "text": "פלאפל התאומים היה מתחת לבית שלי לתקופה. אחלה מוסד." },
-      { "author": "ממליץ מטוויטר", "text": "הכל תמיד טרי, שומרים על מוניטין כבר 48 שנה." }
+      {
+        "author": "חזי גור מזרחי, מעריב",
+        "text": "בגבעתיים, פלאפל התאומים זוכה להכרה כמקום המשפחתי המועדף.",
+        "source": "https://www.maariv.co.il/food/article-1204841"
+      },
+      {
+        "author": "ויקיפדיה העברית",
+        "text": "אחד מדוכני הפלאפל המוצלחים בישראל, מופיע באופן קבוע ברשימות מקומות הפלאפל הטובים. הסיסמה: חם וטעים אצל התאומים.",
+        "source": "https://he.wikipedia.org/wiki/פלאפל_התאומים"
+      }
     ]
   },
   {
     "id": "sabich-dudi",
     "name": "הסביח של דודי",
-    "city": "תל אביב",
-    "region": "תל אביב",
+    "city": "רמת גן",
+    "region": "מרכז",
     "category": "סביח",
-    "address": "הראה 129, תל אביב",
+    "address": "הרא\"ה 129, רמת גן",
     "description": "סביח של פעם. אצל האח — 'מזנון סביח המקורי' בנגבה פינת הראה.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A1%D7%91%D7%99%D7%97%20%D7%A9%D7%9C%20%D7%93%D7%95%D7%93%D7%99%20%D7%94%D7%A8%D7%90%D7%94%20129%20%D7%AA%D7%9C%20%D7%90%D7%91%D7%99%D7%91",
-    "lat": 32.0476,
-    "lng": 34.7912,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A1%D7%91%D7%99%D7%97%20%D7%A9%D7%9C%20%D7%93%D7%95%D7%93%D7%99%20%D7%94%D7%A8%D7%90%22%D7%94%20129%2C%20%D7%A8%D7%9E%D7%AA%20%D7%92%D7%9F",
+    "lat": 32.08237,
+    "lng": 34.81179,
     "priceLevel": "₪",
     "rating": null,
-    "needsConfirm": true,
-    "reviews": []
+    "reviews": [
+      {
+        "author": "קובי רובין, וואלה אוכל",
+        "text": "מנה של סביח אורגינלי שנעשה בהקפדה יתרה כבר כמה עשרות שנים. לא מרגישים כבדות או צרבת סביח.",
+        "source": "https://food.walla.co.il/item/3330756"
+      },
+      {
+        "author": "דוד קישקה, ynet",
+        "text": "דוכן סביח שכונתי, ותיק ומשפחתי ברמת גן שפועל משנות ה60. יש בו את המאסט: ביצה קשה, סלט, חצילים וכמובן עמבה.",
+        "source": "https://www.ynet.co.il/food/article/hj7bkxs1o"
+      }
+    ]
   },
   {
     "id": "sabich-hamekori",
     "name": "מזנון סביח המקורי",
-    "city": "תל אביב",
-    "region": "תל אביב",
+    "city": "רמת גן",
+    "region": "מרכז",
     "category": "סביח",
-    "address": "נגבה 16 פינת הראה, תל אביב",
+    "address": "דרך נגבה 16 (פינת הרוא\"ה), רמת גן",
     "description": "הסניף של האח של דודי. סביח מקורי של פעם.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%96%D7%A0%D7%95%D7%9F%20%D7%A1%D7%91%D7%99%D7%97%20%D7%94%D7%9E%D7%A7%D7%95%D7%A8%D7%99%20%D7%A0%D7%92%D7%91%D7%94%2016%20%D7%AA%D7%9C%20%D7%90%D7%91%D7%99%D7%91",
-    "lat": 32.0481,
-    "lng": 34.7908,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%96%D7%A0%D7%95%D7%9F%20%D7%A1%D7%91%D7%99%D7%97%20%D7%94%D7%9E%D7%A7%D7%95%D7%A8%D7%99%20%D7%93%D7%A8%D7%9A%20%D7%A0%D7%92%D7%91%D7%94%2016%20%28%D7%A4%D7%99%D7%A0%D7%AA%20%D7%94%D7%A8%D7%95%D7%90%22%D7%94%29%2C%20%D7%A8%D7%9E%D7%AA%20%D7%92%D7%9F",
+    "lat": 32.0854,
+    "lng": 34.8156,
     "priceLevel": "₪",
     "rating": null,
-    "needsConfirm": true,
-    "reviews": []
+    "reviews": [
+      {
+        "author": "דוד קישקה, ynet",
+        "text": "חגיגה של טעמים בפה: הביצה, החציל והתרנגולת. המקום שירת דורות שלמים של משפחות והקשר עם הלקוחות הוא הרבה מעבר לאוכל.",
+        "source": "https://www.ynet.co.il/food/article/hj7bkxs1o"
+      }
+    ]
   },
   {
     "id": "shawarma-rosh-hair",
@@ -158,16 +213,14 @@
     "city": "תל אביב",
     "region": "תל אביב",
     "category": "שווארמה",
-    "address": "סלומון 2 (תחנה מרכזית ישנה), תל אביב",
+    "address": "סלומון 2, נווה שאנן (התחנה המרכזית הישנה), תל אביב",
     "description": "שווארמה ותיקה ליד התחנה המרכזית הישנה. נכנס לרשימה ישר מהתגובות.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%95%D7%95%D7%90%D7%A8%D7%9E%D7%94%20%D7%A8%D7%90%D7%A9%20%D7%94%D7%A2%D7%99%D7%A8%20%D7%A1%D7%9C%D7%95%D7%9E%D7%95%D7%9F%202%20%D7%AA%D7%9C%20%D7%90%D7%91%D7%99%D7%91",
-    "lat": 32.0561,
-    "lng": 34.7793,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%95%D7%95%D7%90%D7%A8%D7%9E%D7%94%20%D7%A8%D7%90%D7%A9%20%D7%94%D7%A2%D7%99%D7%A8%20%D7%A1%D7%9C%D7%95%D7%9E%D7%95%D7%9F%202%2C%20%D7%A0%D7%95%D7%95%D7%94%20%D7%A9%D7%90%D7%A0%D7%9F%20%28%D7%94%D7%AA%D7%97%D7%A0%D7%94%20%D7%94%D7%9E%D7%A8%D7%9B%D7%96%D7%99%D7%AA%20%D7%94%D7%99%D7%A9%D7%A0%D7%94%29%2C%20%D7%AA%D7%9C%20%D7%90%D7%91%D7%99%D7%91",
+    "lat": 32.059728,
+    "lng": 34.778685,
     "priceLevel": "₪₪",
     "rating": null,
-    "reviews": [
-      { "author": "AlexYaMo", "text": "שווארמה 'ראש העיר' בתל אביב. רחוב סלומון 2, ת\"מ ישנה." }
-    ]
+    "reviews": []
   },
   {
     "id": "aliko-kiryat-malachi",
@@ -175,15 +228,19 @@
     "city": "קרית מלאכי",
     "region": "דרום",
     "category": "שניצל",
-    "address": "קרית מלאכי",
+    "address": "שדרות דוד בן גוריון 6, קרית מלאכי",
     "description": "אמנם לא מפוצץ בשניצל, אבל טופ בגט שניצל בארץ.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%90%D7%9C%D7%99%D7%A7%D7%95%20%D7%A7%D7%A8%D7%99%D7%AA%20%D7%9E%D7%9C%D7%90%D7%9B%D7%99",
-    "lat": 31.7280,
-    "lng": 34.7450,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%90%D7%9C%D7%99%D7%A7%D7%95%20%D7%A9%D7%93%D7%A8%D7%95%D7%AA%20%D7%93%D7%95%D7%93%20%D7%91%D7%9F%20%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%9F%206%2C%20%D7%A7%D7%A8%D7%99%D7%AA%20%D7%9E%D7%9C%D7%90%D7%9B%D7%99",
+    "lat": 31.728572,
+    "lng": 34.747173,
     "priceLevel": "₪",
     "rating": null,
     "reviews": [
-      { "author": "malachi", "text": "שניצל זה אליקו - קרית מלאכי. אמנם לא מפוצץ בשניצל, אבל טופ בגט שניצל בארץ." }
+      {
+        "author": "מתי שולצר, Google",
+        "text": "הגענו לאחר חיפוש באינטרנט ולא התאכזבנו, האוכל נהדר והשירות מעולה.",
+        "source": "https://zips.co.il/עסקים/קרית-מלאכי/מסעדות/17003/שניצל-אליקו"
+      }
     ]
   },
   {
@@ -192,16 +249,14 @@
     "city": "ראש העין",
     "region": "מרכז",
     "category": "שניצל",
-    "address": "ראש העין",
+    "address": "הרב שלום שבזי 45, ראש העין",
     "description": "מפוצץ בשניצל ואחלה בגט. יש גם לחוח.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%91%D7%90%D7%92%D7%98%20%D7%A9%D7%9C%20%D7%A2%D7%A8%D7%95%D7%9F%20%D7%A8%D7%90%D7%A9%20%D7%94%D7%A2%D7%99%D7%9F",
-    "lat": 32.0954,
-    "lng": 34.9564,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%91%D7%90%D7%92%D7%98%20%D7%A9%D7%9C%20%D7%A2%D7%A8%D7%95%D7%9F%20%D7%94%D7%A8%D7%91%20%D7%A9%D7%9C%D7%95%D7%9D%20%D7%A9%D7%91%D7%96%D7%99%2045%2C%20%D7%A8%D7%90%D7%A9%20%D7%94%D7%A2%D7%99%D7%9F",
+    "lat": 32.0945396,
+    "lng": 34.9453201,
     "priceLevel": "₪",
     "rating": null,
-    "reviews": [
-      { "author": "malachi", "text": "הבאגט של ערון - ראש העין. מפוצץ בשניצל ואחלה בגט, יש גם לחוח." }
-    ]
+    "reviews": []
   },
   {
     "id": "haburik-olga",
@@ -209,15 +264,19 @@
     "city": "גבעת אולגה",
     "region": "שרון",
     "category": "בורקס",
-    "address": "גבעת אולגה, חדרה",
+    "address": "שדרות ברוך בוארון 15, גבעת אולגה, חדרה",
     "description": "2 דקות מאחד החופים היפים בארץ, וטעים למות.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%91%D7%95%D7%A8%D7%99%D7%A7%20%D7%92%D7%91%D7%A2%D7%AA%20%D7%90%D7%95%D7%9C%D7%92%D7%94",
-    "lat": 32.4561,
-    "lng": 34.8901,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%91%D7%95%D7%A8%D7%99%D7%A7%20%D7%A9%D7%93%D7%A8%D7%95%D7%AA%20%D7%91%D7%A8%D7%95%D7%9A%20%D7%91%D7%95%D7%90%D7%A8%D7%95%D7%9F%2015%2C%20%D7%92%D7%91%D7%A2%D7%AA%20%D7%90%D7%95%D7%9C%D7%92%D7%94%2C%20%D7%97%D7%93%D7%A8%D7%94",
+    "lat": 32.439689,
+    "lng": 34.88557,
     "priceLevel": "₪",
     "rating": null,
     "reviews": [
-      { "author": "Tammy GR", "text": "הבוריק בגבעת אולגה! 2 דקות מאחד החופים היפים בארץ וטעים למות." }
+      {
+        "author": "@yuviyam, TikTok",
+        "text": "עגלה שעומדת כבר כמה עשורים שכל כולה בוריקה. פיתה עם בוריקה במילוי תפוח אדמה, צ'ירשי, ביצה, כרוב, טחינה ושני כדורי פלאפל. זה היה מושלם.",
+        "source": "https://www.tiktok.com/@yuviyam/video/7179951038194044162"
+      }
     ]
   },
   {
@@ -226,15 +285,24 @@
     "city": "גבעת אולגה",
     "region": "שרון",
     "category": "שיפודים",
-    "address": "גבעת אולגה, חדרה",
+    "address": "התנאים 1, גבעת אולגה, חדרה",
     "description": "מקום מהמם — אבל בטווח המחירים הגבוה. שיפודים על האש.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%99%D7%A4%D7%95%D7%93%D7%99%20%D7%90%D7%95%D7%9C%D7%92%D7%94%20%D7%92%D7%91%D7%A2%D7%AA%20%D7%90%D7%95%D7%9C%D7%92%D7%94",
-    "lat": 32.4555,
-    "lng": 34.8912,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%99%D7%A4%D7%95%D7%93%D7%99%20%D7%90%D7%95%D7%9C%D7%92%D7%94%20%28%D7%93%D7%95%D7%91%D7%99%20%D7%95%D7%A1%D7%99%D7%9E%D7%95%29%20%D7%94%D7%AA%D7%A0%D7%90%D7%99%D7%9D%201%2C%20%D7%92%D7%91%D7%A2%D7%AA%20%D7%90%D7%95%D7%9C%D7%92%D7%94%2C%20%D7%97%D7%93%D7%A8%D7%94",
+    "lat": 32.436447,
+    "lng": 34.888353,
     "priceLevel": "₪₪₪",
     "rating": null,
     "reviews": [
-      { "author": "Ariel Kedem", "text": "שיפודי אולגה זה מקום מהמם, אבל הם בטווח המחירים הגבוה. מאוד גבוה." }
+      {
+        "author": "מרב סריג, גלובס",
+        "text": "לא רק הבשר המצוין ומבחר השיפודים העצום, אלא הפשטות המנצחת של אוכל בסיסי. בשר נטו טרי, צלוי על גריל פחמים עם קצת מלח, מוגש עם עגבניות ובצל חרוכים.",
+        "source": "https://www.globes.co.il/news/article.aspx?did=1001484735"
+      },
+      {
+        "author": "מרב סריג, גלובס",
+        "text": "שקדים של מטה, נימוחים, עדינים וטובים כל כך.",
+        "source": "https://www.globes.co.il/news/article.aspx?did=1001484735"
+      }
     ]
   },
   {
@@ -243,14 +311,20 @@
     "city": "צפת",
     "region": "גליל",
     "category": "בשרים",
-    "address": "צפת",
+    "address": "ירושלים 26, צפת",
     "description": "פנינה גלילית של פעם. פריקסה ובשרים.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A4%D7%A8%D7%99%D7%A7%D7%A1%D7%94%20%D7%96%D7%94%D7%91%D7%94%20%D7%A6%D7%A4%D7%AA",
-    "lat": 32.9646,
-    "lng": 35.4960,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A4%D7%A8%D7%99%D7%A7%D7%A1%D7%94%20%D7%96%D7%94%D7%91%D7%94%20%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D%2026%2C%20%D7%A6%D7%A4%D7%AA",
+    "lat": 32.9668,
+    "lng": 35.4961,
     "priceLevel": "₪₪",
     "rating": null,
-    "reviews": []
+    "reviews": [
+      {
+        "author": "קובי רובין, וואלה אוכל",
+        "text": "גן עדן אמיתי תמורת 20 שקלים. הביס הכי נעים שיכולתי לקבל, כל הטעמים מתחברים יחד בשכבת השמן של הפריקסה.",
+        "source": "https://food.walla.co.il/item/3007067"
+      }
+    ]
   },
   {
     "id": "haben-shel-sharoni",
@@ -258,11 +332,11 @@
     "city": "חצור הגלילית",
     "region": "גליל",
     "category": "בשרים",
-    "address": "חצור הגלילית",
+    "address": "דרך בן גוריון 5, חצור הגלילית",
     "description": "מקום של פעם בחצור הגלילית. בשרים על האש.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%91%D7%9F%20%D7%A9%D7%9C%20%D7%A9%D7%A8%D7%95%D7%A0%D7%99%20%D7%97%D7%A6%D7%95%D7%A8%20%D7%94%D7%92%D7%9C%D7%99%D7%9C%D7%99%D7%AA",
-    "lat": 32.9842,
-    "lng": 35.5461,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%91%D7%9F%20%D7%A9%D7%9C%20%D7%A9%D7%A8%D7%95%D7%A0%D7%99%20%D7%93%D7%A8%D7%9A%20%D7%91%D7%9F%20%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%9F%205%2C%20%D7%97%D7%A6%D7%95%D7%A8%20%D7%94%D7%92%D7%9C%D7%99%D7%9C%D7%99%D7%AA",
+    "lat": 32.9799,
+    "lng": 35.5436,
     "priceLevel": "₪₪",
     "rating": null,
     "reviews": []
@@ -273,14 +347,25 @@
     "city": "קרית שמונה",
     "region": "צפון",
     "category": "קבב",
-    "address": "קרית שמונה",
+    "address": "חיים ארלוזורוב 6, קרית שמונה",
     "description": "קבב צפוני של פעם בקרית שמונה.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A7%D7%91%D7%91%20%D7%A9%D7%9C%20%D7%A2%D7%95%D7%91%D7%93%20%D7%A7%D7%A8%D7%99%D7%AA%20%D7%A9%D7%9E%D7%95%D7%A0%D7%94",
-    "lat": 33.2074,
-    "lng": 35.5701,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A7%D7%91%D7%91%20%D7%A9%D7%9C%20%D7%A2%D7%95%D7%91%D7%93%20%D7%97%D7%99%D7%99%D7%9D%20%D7%90%D7%A8%D7%9C%D7%95%D7%96%D7%95%D7%A8%D7%95%D7%91%206%2C%20%D7%A7%D7%A8%D7%99%D7%AA%20%D7%A9%D7%9E%D7%95%D7%A0%D7%94",
+    "lat": 33.209501,
+    "lng": 35.568594,
     "priceLevel": "₪₪",
     "rating": null,
-    "reviews": []
+    "reviews": [
+      {
+        "author": "כתבת ynet",
+        "text": "לקבב טוב חוזרים, לקבב מעולה נוסעים במיוחד.",
+        "source": "https://www.ynet.co.il/food/article/bjzra5sn1e"
+      },
+      {
+        "author": "כתבת ynet",
+        "text": "המקום מלא חיים, האווירה טובה, ביתית, יש בה משהו נינוח ומחויך.",
+        "source": "https://www.ynet.co.il/food/article/bjzra5sn1e"
+      }
+    ]
   },
   {
     "id": "steakiyat-alfasi-tveria",
@@ -288,11 +373,11 @@
     "city": "טבריה",
     "region": "גליל",
     "category": "בשרים",
-    "address": "טבריה",
+    "address": "הגליל 16, טבריה",
     "description": "סטקייה ותיקה בטבריה. בשרים על האש.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%98%D7%A7%D7%99%D7%99%D7%AA%20%D7%90%D7%9C%D7%A4%D7%A1%D7%99%20%D7%98%D7%91%D7%A8%D7%99%D7%94",
-    "lat": 32.7922,
-    "lng": 35.5312,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%98%D7%A7%D7%99%D7%99%D7%AA%20%D7%90%D7%9C%D7%A4%D7%A1%D7%99%20%D7%94%D7%92%D7%9C%D7%99%D7%9C%2016%2C%20%D7%98%D7%91%D7%A8%D7%99%D7%94",
+    "lat": 32.786956,
+    "lng": 35.539745,
     "priceLevel": "₪₪",
     "rating": null,
     "reviews": []
@@ -303,14 +388,30 @@
     "city": "צפת",
     "region": "גליל",
     "category": "בשרים",
-    "address": "צפת",
+    "address": "ירושלים 114, צפת",
     "description": "סטקיית הקצבים בצפת. בשר טרי על האש.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%98%D7%A7%D7%99%D7%99%D7%AA%20%D7%94%D7%A7%D7%A6%D7%91%D7%99%D7%9D%20%D7%A6%D7%A4%D7%AA",
-    "lat": 32.9650,
-    "lng": 35.4948,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%98%D7%A7%D7%99%D7%99%D7%AA%20%D7%94%D7%A7%D7%A6%D7%91%D7%99%D7%9D%20%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D%20114%2C%20%D7%A6%D7%A4%D7%AA",
+    "lat": 32.9676948,
+    "lng": 35.4968124,
     "priceLevel": "₪₪",
     "rating": null,
-    "reviews": []
+    "reviews": [
+      {
+        "author": "Rave Sofir, Google",
+        "text": "איזה טעים חבל על הזמן, רמה גבוהה, הכל טרי, הבשר עם תבלין מיוחד.",
+        "source": "https://zips.co.il/עסקים/צפת/מסעדות/81306/סטקיית-הקצבים"
+      },
+      {
+        "author": "לימור דזורלה, Google",
+        "text": "מקום מושלם! האוכל הכי טעים! כל כך שמחה שהגענו לאכול פה.",
+        "source": "https://zips.co.il/עסקים/צפת/מסעדות/81306/סטקיית-הקצבים"
+      },
+      {
+        "author": "ריקי יהודה, Google",
+        "text": "חוויה טובה מאוד ואוכל טעים.",
+        "source": "https://zips.co.il/עסקים/צפת/מסעדות/81306/סטקיית-הקצבים"
+      }
+    ]
   },
   {
     "id": "slimi-nahalat-binyamin",
@@ -318,15 +419,19 @@
     "city": "תל אביב",
     "region": "תל אביב",
     "category": "בשרים",
-    "address": "נחלת בנימין, תל אביב",
+    "address": "נחלת בנימין 80, תל אביב",
     "description": "מסעדת פועלים של אוכל פרסי — מעולה. לא שניצל, אבל פנינה של פעם.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%9C%D7%99%D7%9E%D7%99%20%D7%A0%D7%97%D7%9C%D7%AA%20%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F%20%D7%AA%D7%9C%20%D7%90%D7%91%D7%99%D7%91",
-    "lat": 32.0642,
-    "lng": 34.7701,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%9C%D7%99%D7%9E%D7%99%20%D7%A0%D7%97%D7%9C%D7%AA%20%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F%2080%2C%20%D7%AA%D7%9C%20%D7%90%D7%91%D7%99%D7%91",
+    "lat": 32.06005,
+    "lng": 34.772445,
     "priceLevel": "₪₪",
     "rating": null,
     "reviews": [
-      { "author": "Erez Krispin", "text": "סלימי בנחלת בנימין זה מסעדת פועלים של אוכל פרסי (מעולה), לא שניצל." }
+      {
+        "author": "יובל גוב, Time Out תל אביב",
+        "text": "מרק העוף היה צח ומלא בטעם, וכופתת הגונדי ידעה לשמור על רגישות ונחישות. באיזה עוד מקום אפשר לאכול כזאת ארוחה ב120 שקל?",
+        "source": "https://timeout.co.il/סלימי-העשב-של-השכן/"
+      }
     ]
   },
   {
@@ -335,14 +440,25 @@
     "city": "אזור",
     "region": "מרכז",
     "category": "בשרים",
-    "address": "אזור",
+    "address": "חשמונאים 2, אזור",
     "description": "מוסד ותיק באזור. בשרים על האש של פעם.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A2%D7%96%D7%A8%D7%90%20%D7%95%D7%91%D7%A0%D7%99%D7%95%20%D7%90%D7%96%D7%95%D7%A8",
-    "lat": 32.0251,
-    "lng": 34.8052,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A2%D7%96%D7%A8%D7%90%20%D7%95%D7%91%D7%A0%D7%99%D7%95%20%D7%97%D7%A9%D7%9E%D7%95%D7%A0%D7%90%D7%99%D7%9D%202%2C%20%D7%90%D7%96%D7%95%D7%A8",
+    "lat": 32.0256,
+    "lng": 34.8047,
     "priceLevel": "₪₪",
     "rating": null,
-    "reviews": []
+    "reviews": [
+      {
+        "author": "v_yael, רסט",
+        "text": "הכל טרי. תמיד הומה אדם. יודעים להכין בשר ומחירים מעולים.",
+        "source": "https://www.rest.co.il/rest/6721130/"
+      },
+      {
+        "author": "Omer, רסט",
+        "text": "אוכל טעים, אווירה טובה ומחיר שמתאים לכל כיס, ממליץ בחום.",
+        "source": "https://www.rest.co.il/rest/6721130/"
+      }
+    ]
   },
   {
     "id": "schnitzel-ayala-netanya",
@@ -350,33 +466,45 @@
     "city": "נתניה",
     "region": "שרון",
     "category": "שניצל",
-    "address": "נתניה",
+    "address": "ישראל זנגוויל 12, שוק נתניה, נתניה",
     "description": "שניצל ותיק בנתניה. דעות חלוקות — חלק אוהבים, חלק חושבים שאובררייטד.",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%A0%D7%99%D7%A6%D7%9C%20%D7%90%D7%99%D7%99%D7%9C%D7%94%20%D7%A0%D7%AA%D7%A0%D7%99%D7%94",
-    "lat": 32.3285,
-    "lng": 34.8572,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A9%D7%A0%D7%99%D7%A6%D7%9C%20%D7%90%D7%99%D7%99%D7%9C%D7%94%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C%20%D7%96%D7%A0%D7%92%D7%95%D7%95%D7%99%D7%9C%2012%2C%20%D7%A9%D7%95%D7%A7%20%D7%A0%D7%AA%D7%A0%D7%99%D7%94%2C%20%D7%A0%D7%AA%D7%A0%D7%99%D7%94",
+    "lat": 32.330178,
+    "lng": 34.861164,
     "priceLevel": "₪₪",
     "rating": null,
     "reviews": [
-      { "author": "Emanuel Lustig", "text": "אובררייטד שומני (דעה אישית)." }
+      {
+        "author": "מבקר אוכל-רחוב",
+        "text": "השילוב של כל הסלטים עם שניצל חם בבגט סופר טרי הם הסוד של המקום.",
+        "source": "https://www.street-food.co.il/שניצל-חיים-ידיים-בויה-בנתניה/"
+      },
+      {
+        "author": "מבקר אוכל-רחוב",
+        "text": "ממש לא קריספי, לכן אני ממליץ להזמין את המנה בבגט.",
+        "source": "https://www.street-food.co.il/שניצל-חיים-ידיים-בויה-בנתניה/"
+      }
     ]
   },
   {
     "id": "hapina-halevana",
     "name": "הפינה הלבנה",
-    "city": "לאישור",
+    "city": "יהוד-מונוסון",
     "region": "מרכז",
     "category": "בשרים",
-    "address": "לאישור עיר מדויקת",
+    "address": "הרצל 7, יהוד-מונוסון",
     "description": "לאפה עם חצי קילו בשר לפחות. מקום של פעם. (העיר המדויקת לאישור.)",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A4%D7%99%D7%A0%D7%94%20%D7%94%D7%9C%D7%91%D7%A0%D7%94%20%D7%9C%D7%90%D7%A4%D7%94",
-    "lat": 32.0809,
-    "lng": 34.8000,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%94%D7%A4%D7%99%D7%A0%D7%94%20%D7%94%D7%9C%D7%91%D7%A0%D7%94%20%D7%94%D7%A8%D7%A6%D7%9C%207%2C%20%D7%99%D7%94%D7%95%D7%93-%D7%9E%D7%95%D7%A0%D7%95%D7%A1%D7%95%D7%9F",
+    "lat": 32.028937,
+    "lng": 34.88595,
     "priceLevel": "₪₪",
     "rating": null,
-    "needsConfirm": true,
     "reviews": [
-      { "author": "Do Ron", "text": "הפינה הלבנה, לאפה חצי קילו בשר לפחות. מקום של פעם." }
+      {
+        "author": "זאב, רסט",
+        "text": "את הפינה הלבנה אני מכיר מילדותי. כיף לשבת שם כל פעם מחדש.",
+        "source": "https://www.rest.co.il/rest/18318900/"
+      }
     ]
   },
   {
@@ -385,14 +513,180 @@
     "city": "גבעתיים",
     "region": "מרכז",
     "category": "סביח",
-    "address": "גבעתיים",
+    "address": "סירקין 6, גבעתיים",
     "description": "סביח של פעם בגבעתיים. (הכתובת המדויקת לאישור.)",
-    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%91%D7%99%D7%97%20%D7%A2%D7%95%D7%91%D7%93%20%D7%92%D7%91%D7%A2%D7%AA%D7%99%D7%99%D7%9D",
-    "lat": 32.0723,
-    "lng": 34.8105,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A1%D7%91%D7%99%D7%97%20%D7%A2%D7%95%D7%91%D7%93%20%D7%A1%D7%99%D7%A8%D7%A7%D7%99%D7%9F%206%2C%20%D7%92%D7%91%D7%A2%D7%AA%D7%99%D7%99%D7%9D",
+    "lat": 32.07694,
+    "lng": 34.81417,
     "priceLevel": "₪",
     "rating": null,
-    "needsConfirm": true,
+    "reviews": [
+      {
+        "author": "איילה כהן, מאקו",
+        "text": "לב המנה, החצילים, מתוקים ונטולים כל רמז למרירות, שמנוניים ורכים. אחת התחנות האהובות עליי לסביח איכותי.",
+        "source": "https://www.mako.co.il/food-restaurants/street-food-critics/Article-20e7c5d98cc5c61027.htm"
+      }
+    ]
+  },
+  {
+    "id": "pastory-eilat",
+    "name": "פסטורי",
+    "city": "אילת",
+    "region": "אילת",
+    "category": "איטלקי",
+    "address": "תרשיש 7, אילת",
+    "description": "חצר איטלקית ותיקה עם פסטה שמכינים במקום, בשרים ודגים באווירה אילתית.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A4%D7%A1%D7%98%D7%95%D7%A8%D7%99%20%D7%AA%D7%A8%D7%A9%D7%99%D7%A9%207%2C%20%D7%90%D7%99%D7%9C%D7%AA",
+    "lat": 29.551584,
+    "lng": 34.957768,
+    "priceLevel": "₪₪₪",
+    "rating": null,
+    "reviews": [
+      {
+        "author": "joshsimon09052005, רסט",
+        "text": "היינו חמישה אנשים, כל המנות היו נהדרות, הרמה הכי גבוהה.",
+        "source": "https://www.rest.co.il/rest/80228056/"
+      },
+      {
+        "author": "galbaruch1977, רסט",
+        "text": "אוכל מדהים, שירות מעולה. המלצר הכי חמוד בעולם.",
+        "source": "https://www.rest.co.il/rest/80228056/"
+      },
+      {
+        "author": "aashken26, רסט",
+        "text": "רון היה מלצר מקסים, שירות מסעדה איכותית.",
+        "source": "https://www.rest.co.il/rest/80228056/"
+      }
+    ]
+  },
+  {
+    "id": "galileto-sde-nehemia",
+    "name": "גלילטו",
+    "city": "שדה נחמיה",
+    "region": "גליל",
+    "category": "גלידה",
+    "address": "קיבוץ שדה נחמיה, אצבע הגליל",
+    "description": "גלידת בוטיק שמיוצרת במקום מחומרי גלם טבעיים, עם טעמים חלביים וסורבה.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%92%D7%9C%D7%99%D7%9C%D7%98%D7%95%20%D7%A7%D7%99%D7%91%D7%95%D7%A5%20%D7%A9%D7%93%D7%94%20%D7%A0%D7%97%D7%9E%D7%99%D7%94%2C%20%D7%90%D7%A6%D7%91%D7%A2%20%D7%94%D7%92%D7%9C%D7%99%D7%9C",
+    "lat": 33.186906,
+    "lng": 35.624507,
+    "priceLevel": "₪₪",
+    "rating": null,
+    "reviews": [
+      {
+        "author": "ynet, הגלידות הכי טובות בארץ",
+        "text": "בגלידרייה המופלאה הזו עושים ג'לטו איטלקי, במרקם רך ולא דחוס. גלידה מעודנת ומאופקת ופחות מתוקה משמעותית.",
+        "source": "https://www.ynet.co.il/food/article/byo11njq00c"
+      }
+    ]
+  },
+  {
+    "id": "tom-yum-sde-nehemia",
+    "name": "טום יאם",
+    "city": "שדה נחמיה",
+    "region": "גליל",
+    "category": "תאילנדי",
+    "address": "קיבוץ שדה נחמיה (פוד טראק, ליד גלילטו), גליל עליון",
+    "description": "פוד טראק תאילנדי קטן ומדויק שמביא אוכל רחוב חריף וריחני לגליל העליון.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%98%D7%95%D7%9D%20%D7%99%D7%90%D7%9D%20%D7%A7%D7%99%D7%91%D7%95%D7%A5%20%D7%A9%D7%93%D7%94%20%D7%A0%D7%97%D7%9E%D7%99%D7%94%20%28%D7%A4%D7%95%D7%93%20%D7%98%D7%A8%D7%90%D7%A7%2C%20%D7%9C%D7%99%D7%93%20%D7%92%D7%9C%D7%99%D7%9C%D7%98%D7%95%29%2C%20%D7%92%D7%9C%D7%99%D7%9C%20%D7%A2%D7%9C%D7%99%D7%95%D7%9F",
+    "lat": 33.18621,
+    "lng": 35.62356,
+    "priceLevel": "₪₪",
+    "rating": null,
+    "reviews": [
+      {
+        "author": "אבנית סטרולוב, ערוץ 13",
+        "text": "מקום קטן ואותנטי שהפך לאחד הסודות השמורים של שדה נחמיה, משלב טעמים אותנטיים של המזרח הרחוק עם חומרי גלם איכותיים מהאזור.",
+        "source": "https://13tv.co.il/item/mood/vacation-in-israel/ia347-904390992/"
+      }
+    ]
+  },
+  {
+    "id": "pizza-nehemia",
+    "name": "פיצה נחמיה",
+    "city": "שדה נחמיה",
+    "region": "גליל",
+    "category": "פיצה",
+    "address": "קיבוץ שדה נחמיה, אצבע הגליל",
+    "description": "פיצה שכונתית אהובה על הדשא בקיבוץ, עם סלטים, מאפים ואווירה ביתית.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A4%D7%99%D7%A6%D7%94%20%D7%A0%D7%97%D7%9E%D7%99%D7%94%20%D7%A7%D7%99%D7%91%D7%95%D7%A5%20%D7%A9%D7%93%D7%94%20%D7%A0%D7%97%D7%9E%D7%99%D7%94%2C%20%D7%90%D7%A6%D7%91%D7%A2%20%D7%94%D7%92%D7%9C%D7%99%D7%9C",
+    "lat": 33.186906,
+    "lng": 35.624507,
+    "priceLevel": "₪₪",
+    "rating": null,
     "reviews": []
+  },
+  {
+    "id": "falafel-musa-netanya",
+    "name": "פלאפל מוסא",
+    "city": "נתניה",
+    "region": "שרון",
+    "category": "פלאפל",
+    "address": "שדרות ויצמן 12, נתניה (כניסה לשוק)",
+    "description": "פלאפל ותיק משנת 1953 בשוק נתניה, עם מנה נדיבה ותוספות של פעם.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A4%D7%9C%D7%90%D7%A4%D7%9C%20%D7%9E%D7%95%D7%A1%D7%90%20%D7%A9%D7%93%D7%A8%D7%95%D7%AA%20%D7%95%D7%99%D7%A6%D7%9E%D7%9F%2012%2C%20%D7%A0%D7%AA%D7%A0%D7%99%D7%94%20%28%D7%9B%D7%A0%D7%99%D7%A1%D7%94%20%D7%9C%D7%A9%D7%95%D7%A7%29",
+    "lat": 32.329618,
+    "lng": 34.858972,
+    "priceLevel": "₪",
+    "rating": null,
+    "reviews": [
+      {
+        "author": "ארז, רסט",
+        "text": "פלאפל ממש ממש טעים, הכדורים היו עשויים כמו שצריך.",
+        "source": "https://www.rest.co.il/rest/65366270/"
+      },
+      {
+        "author": "משה, רסט",
+        "text": "פלאפל מוסא פשוט פלאפל טעים, זה כנראה הסוד של הכדורים.",
+        "source": "https://www.rest.co.il/rest/65366270/"
+      }
+    ]
+  },
+  {
+    "id": "nisan-masade",
+    "name": "מסעדת ניסאן",
+    "city": "מג'דל שמס",
+    "region": "גולן",
+    "category": "בשרים",
+    "address": "כביש 98, מג'דל שמס, רמת הגולן",
+    "description": "אירוח דרוזי חם עם בשרים, סלטים ומנות מקומיות בלב צפון הגולן.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%9E%D7%A1%D7%A2%D7%93%D7%AA%20%D7%A0%D7%99%D7%A1%D7%90%D7%9F%20%D7%9B%D7%91%D7%99%D7%A9%2098%2C%20%D7%9E%D7%92%27%D7%93%D7%9C%20%D7%A9%D7%9E%D7%A1%2C%20%D7%A8%D7%9E%D7%AA%20%D7%94%D7%92%D7%95%D7%9C%D7%9F",
+    "lat": 33.268429,
+    "lng": 35.769371,
+    "priceLevel": "₪₪",
+    "rating": null,
+    "reviews": [
+      {
+        "author": "Gustavo Szneiberg, TripAdvisor",
+        "text": "נכנסנו עייפים ורעבים ויצאנו מרוצים ונרגשים.",
+        "source": "https://www.tripadvisor.com/Restaurant_Review-g2360326-d9698488-Reviews-Nisan_Restuarant-Majdal_Shams.html"
+      },
+      {
+        "author": "Ruth V, TripAdvisor",
+        "text": "האוכל כאן היה פשוט נפלא והיה ממנו בשפע, מספיק כדי לקחת הביתה ליום שאחרי.",
+        "source": "https://www.tripadvisor.com/Restaurant_Review-g2360326-d9698488-Reviews-Nisan_Restuarant-Majdal_Shams.html"
+      }
+    ]
+  },
+  {
+    "id": "coney-island-pizza-aniam",
+    "name": "קוני איילנד פיצה",
+    "city": "אניעם",
+    "region": "גולן",
+    "category": "פיצה",
+    "address": "כפר האמנים 4, אניעם, רמת הגולן",
+    "description": "פיצריה גלילית בכפר האמנים, תחנה טעימה ונינוחה באמצע טיול בגולן.",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%D7%A7%D7%95%D7%A0%D7%99%20%D7%90%D7%99%D7%99%D7%9C%D7%A0%D7%93%20%D7%A4%D7%99%D7%A6%D7%94%20%D7%9B%D7%A4%D7%A8%20%D7%94%D7%90%D7%9E%D7%A0%D7%99%D7%9D%204%2C%20%D7%90%D7%A0%D7%99%D7%A2%D7%9D%2C%20%D7%A8%D7%9E%D7%AA%20%D7%94%D7%92%D7%95%D7%9C%D7%9F",
+    "lat": 32.9573,
+    "lng": 35.7405,
+    "priceLevel": "₪₪",
+    "rating": null,
+    "reviews": [
+      {
+        "author": "odedbitan16, רסט",
+        "text": "הפיצה הכי טעימה שאכלתי בפער גדול, שילובים משוגעים וטעמים מצוינים.",
+        "source": "https://www.rest.co.il/rest/80367594/"
+      }
+    ]
   }
 ]

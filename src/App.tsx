@@ -23,6 +23,7 @@ export default function App() {
   const [loading, setLoading] = useState(true)
   const [region, setRegion] = useState<string | null>(null)
   const [category, setCategory] = useState<string | null>(null)
+  const [query, setQuery] = useState('')
   const [view, setView] = useState<'map' | 'grid'>(initialView)
   const [selected, setSelected] = useState<Place | null>(null)
   const [showAdd, setShowAdd] = useState(false)
@@ -42,15 +43,18 @@ export default function App() {
       .finally(() => setLoading(false))
   }, [])
 
-  const filtered = useMemo(
-    () =>
-      places.filter(
-        (p) =>
-          (region === null || p.region === region) &&
-          (category === null || p.category === category),
-      ),
-    [places, region, category],
-  )
+  const filtered = useMemo(() => {
+    const q = query.trim().toLowerCase()
+    return places.filter(
+      (p) =>
+        (region === null || p.region === region) &&
+        (category === null || p.category === category) &&
+        (q === '' ||
+          [p.name, p.city, p.category, p.address, p.description]
+            .filter(Boolean)
+            .some((f) => f.toLowerCase().includes(q))),
+    )
+  }, [places, region, category, query])
 
   async function handleAdd(place: Place) {
     const persisted = await insertPlace(place)
@@ -91,9 +95,11 @@ export default function App() {
           region={region}
           category={category}
           view={view}
+          query={query}
           onRegion={setRegion}
           onCategory={setCategory}
           onView={setView}
+          onQuery={setQuery}
         />
 
         {loading ? (

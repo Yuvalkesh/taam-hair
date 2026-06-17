@@ -2,6 +2,7 @@ export interface Review {
   author: string
   text: string
   rating?: number
+  source?: string | null
 }
 
 export interface Place {

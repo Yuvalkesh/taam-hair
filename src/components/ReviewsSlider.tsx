@@ -31,7 +31,23 @@ export default function ReviewsSlider({ reviews }: { reviews: Review[] }) {
         <div className="slider-track">
           <div className="review-card">
             <div className="review-text">"{r.text}"</div>
-            <div className="review-author">— {r.author}</div>
+            <div className="review-author">
+              — {r.author}
+              {r.source && (
+                <>
+                  {' '}
+                  <a
+                    className="review-source"
+                    href={r.source}
+                    target="_blank"
+                    rel="noreferrer"
+                    onClick={(e) => e.stopPropagation()}
+                  >
+                    מקור↗
+                  </a>
+                </>
+              )}
+            </div>
           </div>
         </div>
         {reviews.length > 1 && (
